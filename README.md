@@ -1,6 +1,8 @@
 # 💫About Me :
 🎨 Passionate Full-Stack Developer with a love for UI/UX Design
+
 💻 Building clean, responsive web apps and crafting beautiful interfaces with Figma
+
 🚀 Always curious to explore new technologies and create amazing projects
 
 ## 🌐Socials
