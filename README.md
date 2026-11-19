@@ -37,13 +37,12 @@ I also have an interest in **game development and immersive technologies**, with
 
 ### Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,sqlite,git,github" alt="Development technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,sqlite,git,github" alt="Development technologies" />
 </p>
 
 ### Creative & Animation Tools
 <p>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/GSAP-0AE448?style=flat&logo=greensock&logoColor=black" alt="GSAP" />
   <img src="https://img.shields.io/badge/AR%20Foundation-222222?style=flat&logo=unity&logoColor=white" alt="AR Foundation" />
 </p>
 
